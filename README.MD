@@ -13,4 +13,5 @@ A coding challenge using Python and Django
 * Create related 5 ProcessSteps (for-loop is allowed here) and assign a random cost values between 0.00 and 10.00. 
 * Print the cost value for each ProcessStep after creating it.
 * Print the total_cost of the ProcessChain.
-* Assign the cost value of 100 to one of the process .
+* Assign the cost value of 100 to one of the process.
+4. Create a repository and push the code.
