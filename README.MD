@@ -1,3 +1,5 @@
+A coding challenge using Python and Django
+
 # Tasks #
 1. Create a Django project **myproject** and app **core** and two models: **ProcessChain** and **ProcessStep**. A ProcessChain has many related ProcessSteps.
 * ProcessStep:
